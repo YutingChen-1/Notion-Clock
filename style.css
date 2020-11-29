@@ -1,4 +1,6 @@
 body{
+    height: 300px;
+    width: 500px;
     background-color: #FFFFFF;
 }
 #time{
@@ -6,12 +8,12 @@ body{
     text-align: center;
     font-size: 3.35em;
     background-color: #FFFFFF;
-    font-family: 'Nunito', sans-serif;
+    font-family: Nunito, sans-serif;
 }
 #da, #dt{
     color: black;
     text-align: center;
     font-size: 1em;
     background-color: #FFFFFF;
-    font-family: 'Nunito', sans-serif;
+    font-family: Nunito, sans-serif;
 }
