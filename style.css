@@ -1,0 +1,17 @@
+body{
+    height: 500px, 100%;
+    width: 300px, 100%;
+    color: black;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-family: Nunito, sans-serif;
+}
+#da, #dt
+{
+    font-family: Nunito, sans-serif;
+    font-size: 1em;
+}
+#time{
+    font-family: Nunito, sans-serif;
+    font-size: 3.35em;
+}
