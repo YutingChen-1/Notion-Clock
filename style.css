@@ -1,0 +1,9 @@
+body{
+    height: 500px, 100%;
+    width: 300px, 100%;
+    color: black;
+    text-align: center;
+    font-size: 1em;
+    background-color: #FFFFFF;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
