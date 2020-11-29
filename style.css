@@ -1,14 +1,18 @@
+body{
+    height: 500px;
+    width: 800px;
+}
 #time{
     color: black;
     text-align: center;
-    font-size: 40pt;
+    font-size: 3.35em;
     background-color: #FFFFFF;
     font-family: Nunito, sans-serif;
 }
 #da, #dt{
     color: black;
     text-align: center;
-    font-size: 12pt;
+    font-size: 1em;
     background-color: #FFFFFF;
     font-family: Nunito, sans-serif;
 }
