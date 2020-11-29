@@ -1,9 +1,18 @@
-body{
+#time{
     height: 500px, 100%;
     width: 300px, 100%;
     color: black;
     text-align: center;
-    font-size: 1em;
+    font-size: 40pt;
     background-color: #FFFFFF;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:font-family: 'Nunito', sans-serif;
+}
+#da, #dt{
+    height: 500px, 100%;
+    width: 300px, 100%;
+    color: black;
+    text-align: center;
+    font-size: 12pt;
+    background-color: #FFFFFF;
+    font-family:font-family: 'Nunito', sans-serif;
 }
