@@ -20,7 +20,7 @@
     if(year<1000){year=year+1900};
     if(minute<10){minute='0'+minute};
     if(second<10){second='0'+second};
-    document.getElementById('time').innerHTML=hour+' : '+ minute +' : '+second; 
+    document.getElementById('time').innerHTML=hour+':'+ minute +':'+second; 
     document.getElementById('da').innerHTML=dayname;
     document.getElementById('dt').innerHTML=monthname+' '+day+', '+year;
     setTimeout('clock()',1000 )}window.onload=function(){clock();}
