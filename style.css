@@ -4,14 +4,14 @@ body{
     color: black;
     text-align: center;
     background-color: #FFFFFF;
-    font-family: Nunito, sans-serif;
 }
 #da, #dt
 {
-    font-family: Nunito, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1em;
 }
 #time{
-    font-family: Nunito, sans-serif;
+    font-family: 'Lora', serif;
     font-size: 3.35em;
+    letter-spacing: 0.05em;
 }
